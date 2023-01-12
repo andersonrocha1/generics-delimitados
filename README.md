@@ -25,4 +25,6 @@ https://stackoverflow.com/questions/1368166/what-is-a-difference-between-super-e
 
 - Java wrapper types (próximos exemplos)
 
-image.png
+![image.png][def]
+
+[def]: https://codepumpkin.com/wp-content/uploads/2017/12/WrapperClassesHierarchy.jpg
